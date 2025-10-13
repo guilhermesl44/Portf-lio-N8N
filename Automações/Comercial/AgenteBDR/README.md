@@ -56,7 +56,7 @@ Um sistema que analisa automaticamente o digital presence de cada lead, identifi
 
 ### Diagrama Visual
 
-![Fluxo Completo](./Imagens/fluxo-analise-ia.png)
+![Fluxo Completo](./Imagens/AgenteBDR.jpg)
 
 *Nota: Por questões de confidencialidade, o arquivo JSON não está disponível publicamente.*
 
