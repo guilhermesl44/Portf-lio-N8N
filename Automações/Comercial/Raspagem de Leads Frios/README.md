@@ -1,6 +1,6 @@
 # 🤖 Raspagem Inteligente de Leads com IA
 
-> **Categoria:** Comercial | **Complexidade:** ⭐⭐⭐⭐⭐ | **Status:** ✅ Em Produção
+> **Categoria:** Comercial | **Complexidade:** ⭐⭐ | **Status:** ✅ Em Produção
 
 ## 📝 Visão Geral
 
