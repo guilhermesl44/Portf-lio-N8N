@@ -45,7 +45,7 @@ Um workflow que busca automaticamente, organiza os dados, valida o WhatsApp e en
 
 ### Diagrama Visual
 
-![Fluxo Completo](./Imagens//Capturadetela2025-10-13160113.jpg) 
+![Fluxo Completo](./Imagens/RaspagemLeads.jpg) 
 
 *Nota: Por questões de confidencialidade, o arquivo JSON não está disponível publicamente.*
 
