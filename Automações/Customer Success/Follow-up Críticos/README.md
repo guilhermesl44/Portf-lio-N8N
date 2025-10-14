@@ -58,7 +58,7 @@ Um sistema que:
 
 ### Diagrama Visual
 
-![Fluxo de Follow-up](./Imagens/fluxo-followup-criticos.png)
+![Fluxo de Follow-up](./Imagens/Criticos.jpg) 
 
 *Nota: Por questões de confidencialidade, o arquivo JSON não está disponível publicamente.*
 
