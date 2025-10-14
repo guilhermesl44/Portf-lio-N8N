@@ -1,6 +1,6 @@
 # 🚨 Follow-up Automático de Clientes Críticos
 
-> **Categoria:** Customer Success | **Complexidade:** ⭐⭐⭐⭐ | **Status:** ✅ Em Produção
+> **Categoria:** Customer Success | **Complexidade:** ⭐⭐ | **Status:** ✅ Em Produção
 
 ## 📝 Visão Geral
 
