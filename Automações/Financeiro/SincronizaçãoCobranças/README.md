@@ -56,7 +56,7 @@ Um workflow que roda diariamente e:
 
 ### Diagrama Visual
 
-![Fluxo de Sincronização](./Imagens/Sincronização.png)
+![Fluxo de Sincronização](./Imagens/Sincronização.jpg)
 
 *Nota: Por questões de confidencialidade, o arquivo JSON não está disponível publicamente.*
 
