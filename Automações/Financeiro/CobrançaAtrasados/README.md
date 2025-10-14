@@ -58,7 +58,7 @@ Um sistema que:
 
 ### Diagrama Visual
 
-![Fluxo de Cobrança](./Imagens/fluxo-cobranca-atrasados.png)
+![Fluxo de Cobrança](./Imagens/fluxo-cobranca-atrasados.png) 
 
 *Nota: Por questões de confidencialidade, o arquivo JSON não está disponível publicamente.*
 
