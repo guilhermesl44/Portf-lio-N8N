@@ -70,7 +70,7 @@ Um sistema 100% automatizado que:
 
 ### Diagrama Visual
 
-![Fluxo Completo](./Imagens/EMISSÃODEBOLETOS.jpg)
+![Fluxo Completo](./Imagens/EMISSAODEBOLETOS.jpg)
 
 *Nota: Por questões de confidencialidade, o arquivo JSON não está disponível publicamente.*
 
